@@ -89,3 +89,12 @@ main .main-input-container:hover {
 main .main-input-container input:hover {
   background-color: #5f6368;
 }
+main .main-input .search-icon {
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}

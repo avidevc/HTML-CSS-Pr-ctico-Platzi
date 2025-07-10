@@ -14,9 +14,9 @@ a {
 }
 a:hover {
   text-decoration: underline;
-
 }
 
+/*Header styles */
 header {
   width: 100%;
   height: 60px;
@@ -52,6 +52,7 @@ nav .nav-right-section .profile-picture {
   margin-left: 10px;
 }
 
+/*Main styles*/
 main {
   margin-top: 200px;
   text-align: center;
@@ -96,5 +97,62 @@ main .main-input-icon {
 main .main-input-section img {
   width: 20px;
   height: 20px;
+}
+main .main-buttons {
+  width: 530px;
+  margin: 0 auto;
+}
+main .main-buttons-section div {
+  display: inline-block;
+}
+main .main-buttons-section button {
+  height: 38px;
+  border-radius: 6px;
+  border-style: none;
+  color: #fff;
+  background-color: #303134;
+  border: none;
+  outline: none;
+  padding: 0 16px;
+  margin-right: 16px;
+  margin-bottom: 40px;
+}
+main .main-buttons-section button:hover {
+  border: 1px solid #5f6368;
+}
+main .main-buttons-section p {
+  color: #5f6368;
+  font-size: 14px;
+}
 
+/*Footer styles*/
+footer {
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  font-size: 13px;
+  background-color: #171717;
+  border-top: 1px solid #3c4043;
+}
+footer ul {
+  margin: 10px;
+  list-style: none;
+  display: flex;
+  padding-left: 0%;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+footer .footer-left-section {
+  justify-content: left;
+}
+footer .footer-right-section {
+  justify-content: right;
+}
+footer ul li a{
+  margin-right: 10px;
 }

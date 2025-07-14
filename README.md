@@ -1,6 +1,6 @@
 # [Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/) 
 
-<sub>(Ctrl + Click or Middle-click to open in a new tab)</sub>
+<sub>_(Ctrl + Click or Middle-click to open in a new tab)_</sub>
 
 Este repositorio contiene todo el material y código fuente que he desarrollado durante el **Curso Práctico de HTML y CSS**. 
 Donde he construido un clon de Google usando HTML y CSS. Durante el curso he aprendido a estructurar y estilizar un sitio web completo, desde el header hasta el footer, usando técnicas de maquetación como Flexbox y Grid, utilizando la página de buscador de Google.

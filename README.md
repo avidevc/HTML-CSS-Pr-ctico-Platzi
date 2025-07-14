@@ -21,12 +21,25 @@ Donde he construido un clon de Google usando HTML y CSS. Durante el curso he apr
 
 ## Estructura del proyecto:
 📦 CSS-Grid-Basico-Platzi
+```
+.
+├── CSS
+│   └── main.css
+├── README.md
+├── assets
+│   ├── icons
+│   │   ├── magnifier-icon.svg
+│   │   └── micro-icon.svg
+│   └── img
+│       ├── me.jpg
+│       ├── screenshot-curso-html-css-practico.jpg
+│       └── white-hd-google-logo-701751694791445gkogomqqwr 1.png
 ├── index.html
-├── styles/
-│   └── main.css
-├── assets/
-│   └── imagenes
-└── README.md
+└── tree.txt
+```
+
+_4 directories, 9 files_
+
 
 ## 📚 Resources / References
 - Plataforma: [Platzi](https://platzi.com)
